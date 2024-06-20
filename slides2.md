@@ -19,7 +19,9 @@ SOSE-24_SUPERHIRN_14
  └─.gitignore
 ```
 
----
+:::::::::::::::::::::::
+
+## Projektstruktur
 
 ```plaintext
 SOSE-24_SUPERHIRN_14
