@@ -14,5 +14,5 @@
 
 -----------------------
 
-<img style="margin: 0; filter: drop-shadow(1px 1px 1px #666);" src="./class_diagram_new.svg" width="85%">
+<img style="margin: 0; filter: drop-shadow(1px 1px 1px #666);" src="./class_diagram_new.svg" width="150%">
 
