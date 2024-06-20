@@ -1,4 +1,5 @@
 
+
 ## Entwicklungsprozess
 
 -----------------------
@@ -60,7 +61,7 @@
 
 Scrumban\
 Trello <br>
-<img style="margin-top: 10; margin-bottom: 30px; " src="https://cdn.discordapp.com/attachments/1233371874054897777/1253453200116420739/image.png?ex=6675e8c2&is=66749742&hm=12551e6aad607085300b059704e92a35606cd520a2f4f0240d440c5abd4644d3&" alt="drawing" width="100%">
+<img style="margin-top: 10; margin-bottom: 30px; " src="https://media.discordapp.net/attachments/1233371874054897777/1253475753484619776/image.png?ex=6675fdc4&is=6674ac44&hm=f634c2eb8d4c93e60b7a2fcfb5a44a9938b92b6b3a6796343c752039d4141b90&=&format=webp&quality=lossless" alt="drawing" width="100%">
 
 
 -----------------------
